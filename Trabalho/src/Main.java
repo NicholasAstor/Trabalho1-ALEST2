@@ -8,7 +8,7 @@ public class Main {
 // ...
         var map = new ArrayList<String>();
         try{
-            File file = new File("c:/Users/pokem/OneDrive/Área de Trabalho/Trabalhos, Projetos de Programação/casos-de-teste-E/casoE2000.txt");
+            File file = new File("Trabalho/lib/casos-de-teste-E/casoE50.txt");
             Scanner in = new Scanner(file);
 
             while(in.hasNextLine()){
